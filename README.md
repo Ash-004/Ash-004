@@ -9,8 +9,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ash-004&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ash-004&icon=0&color=1)](https://visitcount.itsvg.in)
